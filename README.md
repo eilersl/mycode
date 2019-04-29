@@ -1,4 +1,4 @@
-# mycode Learning to Track my Code
+# mycode (Project Title)
 
 The purpose of this repo is to keep track of my efforts to learn to code in Python. This is my first attempt at learning a coding language.
 
