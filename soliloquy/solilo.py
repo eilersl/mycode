@@ -21,5 +21,9 @@ with open("sol.txt", "r") as f:
         counted.update(num)
 #   print(counted)
 
-v = input("Which word do you want to see the number of times it occurs?: ")
-print(counted[v])
+# v = input("Which word do you want to see the number of times it occurs?: ")
+# print(counted[v])
+
+output_file = open("wordcount.txt", "w")
+output_file.write(str(counted))
+output_file.close()
